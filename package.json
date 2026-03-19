@@ -1,0 +1,12 @@
+{
+  "name": "pump-dev",
+  "version": "1.0.0",
+  "description": "AI agent skill for pump.fun development — fees, claims, PumpSwap, GitHub social PDAs",
+  "keywords": ["agent-skill", "pump.fun", "solana", "defi", "pumpswap", "github-claims"],
+  "author": "nirholas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nirholas/pump-dev"
+  }
+}
