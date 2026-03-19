@@ -16,7 +16,7 @@ Expert knowledge of pump.fun's:
 
 ```bash
 # Add to any compatible AI agent
-npx skills add nirholas/pump-dev
+npx skills add ItachiDevv/pump-dev
 ```
 
 ## Skill Structure
